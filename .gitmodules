@@ -1,3 +1,3 @@
-[submodule "submodule1"]
-	path = submodule1
+[submodule "submodule2"]
+	path = submodule2
 	url = https://github.com/Terinah14/submodules1.git
